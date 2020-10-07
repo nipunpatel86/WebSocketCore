@@ -1,0 +1,13 @@
+C:\Users\003555\Desktop\Websocket\bin\Debug\netcoreapp2.1\EchoApp.deps.json
+C:\Users\003555\Desktop\Websocket\bin\Debug\netcoreapp2.1\EchoApp.runtimeconfig.json
+C:\Users\003555\Desktop\Websocket\bin\Debug\netcoreapp2.1\EchoApp.runtimeconfig.dev.json
+C:\Users\003555\Desktop\Websocket\bin\Debug\netcoreapp2.1\EchoApp.dll
+C:\Users\003555\Desktop\Websocket\bin\Debug\netcoreapp2.1\EchoApp.pdb
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.csproj.CoreCompileInputs.cache
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.RazorAssemblyInfo.cache
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.RazorAssemblyInfo.cs
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.AssemblyInfoInputs.cache
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.AssemblyInfo.cs
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.RazorTargetAssemblyInfo.cache
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.dll
+C:\Users\003555\Desktop\Websocket\obj\Debug\netcoreapp2.1\EchoApp.pdb
